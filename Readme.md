@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🤖 SmartRecruit: Revolutionizing Recruitment
 
 ## 🚀 Project Overview
